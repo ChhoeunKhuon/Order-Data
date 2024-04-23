@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\VSCode 2022\Order\bin\Debug\Order.exe.config
+C:\Users\ASUS\Documents\VSCode 2022\Order\bin\Debug\Order.exe
+C:\Users\ASUS\Documents\VSCode 2022\Order\bin\Debug\Order.pdb
+C:\Users\ASUS\Documents\VSCode 2022\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\VSCode 2022\Order\obj\Debug\Order.Form1.resources
+C:\Users\ASUS\Documents\VSCode 2022\Order\obj\Debug\Order.Properties.Resources.resources
+C:\Users\ASUS\Documents\VSCode 2022\Order\obj\Debug\Order.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\VSCode 2022\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\VSCode 2022\Order\obj\Debug\Order.exe
+C:\Users\ASUS\Documents\VSCode 2022\Order\obj\Debug\Order.pdb
